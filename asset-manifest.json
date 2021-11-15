@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/capital-one-summit-challenge/static/css/main.69c2a6f3.chunk.css",
+    "main.css": "/capital-one-summit-challenge/static/css/main.299f8671.chunk.css",
     "main.js": "/capital-one-summit-challenge/static/js/main.710fab2f.chunk.js",
     "main.js.map": "/capital-one-summit-challenge/static/js/main.710fab2f.chunk.js.map",
     "runtime-main.js": "/capital-one-summit-challenge/static/js/runtime-main.baad332b.js",
@@ -12,14 +12,14 @@
     "static/js/3.d1b974a9.chunk.js.map": "/capital-one-summit-challenge/static/js/3.d1b974a9.chunk.js.map",
     "index.html": "/capital-one-summit-challenge/index.html",
     "static/css/2.fc4d167a.chunk.css.map": "/capital-one-summit-challenge/static/css/2.fc4d167a.chunk.css.map",
-    "static/css/main.69c2a6f3.chunk.css.map": "/capital-one-summit-challenge/static/css/main.69c2a6f3.chunk.css.map",
+    "static/css/main.299f8671.chunk.css.map": "/capital-one-summit-challenge/static/css/main.299f8671.chunk.css.map",
     "static/js/2.aafe46f1.chunk.js.LICENSE.txt": "/capital-one-summit-challenge/static/js/2.aafe46f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.baad332b.js",
     "static/css/2.fc4d167a.chunk.css",
     "static/js/2.aafe46f1.chunk.js",
-    "static/css/main.69c2a6f3.chunk.css",
+    "static/css/main.299f8671.chunk.css",
     "static/js/main.710fab2f.chunk.js"
   ]
 }
