@@ -1,5 +1,25 @@
+.header {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  background-color: #5f8575;
+  color: white;
+  padding: 20px 20px;
+  margin-bottom: 15px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #5f8575;
+  color: white;
+  padding: 20px 0;
+}
+
 .App {
   text-align: center;
+  background-image: url("https://www.desktopbackground.org/p/2015/11/04/1036913_pretty-nature-backgrounds-wallpapers-cave_1920x1080_h.jpg");
 }
 
 .App-logo {
